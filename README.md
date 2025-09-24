@@ -46,8 +46,6 @@ Detailed architecure is given below.
 3. Include lovasz loss with higher weightage.
 4. Learn and use Hypercolumns
 
-## Author:
-* Aditya Jain : [Portfolio](https://adityajain.me)
 
 ## To Read:
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
@@ -56,4 +54,3 @@ Detailed architecure is given below.
 4. [Lovasz Loss](https://arxiv.org/abs/1705.08790) 
 5. [Jaccard Index - Intesection over Union](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
 6. [Understanding Dice Loss](https://forums.fast.ai/t/understanding-the-dice-coefficient/5838)
-7. [Another Image Segmentation Problem](https://github.com/adityajn105/TGS-Salt-Identification-Image-Segmentation-)
