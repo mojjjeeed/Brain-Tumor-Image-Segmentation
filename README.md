@@ -15,15 +15,13 @@ meningioma       	  | glioma		| 	pituitary tumor
 ![](samples/sample4.png)  |  ![](samples/sample5.png)		| ![](samples/sample6.png) 
 ![](samples/sample7.png)  |  ![](samples/sample8.png)		| ![](samples/sample9.png) 
 
-## Getting Started
-Here I will explain how to get the data and convert it into the usable form. You can run the train and run model using [notebook](https://github.com/adityajn105/brain-tumor-segmentation-unet/blob/master/brain-tumor-segmentation.ipynb).
 
 ### Prerequisites
 You will need Python 3.X.X with some packages which you can install direclty using requirements.txt.
 > pip install -r requirements.txt
 
 ### Get the Dataset
-I have used brain-tumor segment dataset which is available on the internet. You can run [download_data.sh](https://github.com/adityajn105/brain-tumor-segmentation-unet/blob/master/download_data.sh) shell script to download all data. It contains 3064 MRI images and 3064 masks. 
+I have used brain-tumor segment dataset which is available on the internet. You can run [download_data.sh] shell script to download all data. It contains 3064 MRI images and 3064 masks. 
 > bash tumor-segmentation-unet/download_data.sh
 
 After that run the following command to convert data in useable form.
